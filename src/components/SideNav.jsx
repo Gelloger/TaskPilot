@@ -37,9 +37,6 @@ export default function SideNav() {
           </NavLink>
         ))}
       </nav>
-      <div className="p-4 border-t border-white/10">
-        <div className="text-xs text-white/40">Powered by Claude 3.5</div>
-      </div>
     </aside>
   );
 }
